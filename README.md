@@ -1,4 +1,4 @@
-# 📌 Review Analyzer Project
+# 📌AI-Based Review Analyzer Project
 
 An **AI-powered Review Analyzer** web application built with **Spring Boot, JSP, and OpenAI API**.
 It allows users to enter a review or feedback and instantly get **sentiment analysis and summarized insights** in a **user-friendly UI**.
