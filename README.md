@@ -1,4 +1,4 @@
-# 📌AI-Based Review Analyzer Project
+# 📌AI-Based Review Analyzer 
 
 An **AI-powered Review Analyzer** web application built with **Spring Boot, JSP, and OpenAI API**.
 It allows users to enter a review or feedback and instantly get **sentiment analysis and summarized insights** in a **user-friendly UI**.
@@ -12,7 +12,6 @@ It allows users to enter a review or feedback and instantly get **sentiment anal
 ✅ **Readable insights** – not raw JSON
 ✅ Clean and **interactive JSP UI**
 ✅ Modular Spring Boot backend with Controller-Service structure
-✅ Easily extendable to support **advanced NLP features**
 
 ---
 
