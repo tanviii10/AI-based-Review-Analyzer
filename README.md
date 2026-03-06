@@ -7,11 +7,11 @@ It allows users to enter a review or feedback and instantly get **sentiment anal
 
 ## 🚀 Features
 
-✅ Enter any product/service review in a form
-✅ AI-powered **sentiment analysis** (Positive, Negative, Neutral)
-✅ **Readable insights** – not raw JSON
-✅ Clean and **interactive JSP UI**
-✅ Modular Spring Boot backend with Controller-Service structure
+* ✅ Enter any product/service review in a form
+* ✅ AI-powered **sentiment analysis** (Positive, Negative, Neutral)
+* ✅ **Readable insights** – not raw JSON
+* ✅ Clean and **interactive JSP UI**
+* ✅ Modular Spring Boot backend with Controller-Service structure
 
 ---
 
